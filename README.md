@@ -1,8 +1,8 @@
 # Introduction
 
-This is the repository for the RoboCup @home team of the Ohm university of applied sciences.
-Our goal is to participate in the @home league of the Robocup Federation at the RoboCup 2027 in Nuremberg.
-With our industry partner Isento we strive to further research and development in the field of humanoid household robots.
+This is the repository for the RoboCup @home team of the Ohm university of applied sciences.  
+Our goal is to participate in the @home league of the Robocup Federation at the RoboCup 2027 in Nuremberg.  
+With our industry partner Isento we strive to further research and development in the field of humanoid household robots.  
 
 # Description 
 
