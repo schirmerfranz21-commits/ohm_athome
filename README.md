@@ -33,6 +33,9 @@ As software backend for the upper part we use the isento backend as a foundation
 
 This repo consists of the following folders:
 
+# Important informations
+
+- There is a possibility that we use this repo for CAD Data => Use GIT LFS !!!
 
 # History 
 
