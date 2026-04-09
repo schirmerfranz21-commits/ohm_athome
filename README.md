@@ -33,6 +33,12 @@ As software backend for the upper part we use the isento backend as a foundation
 
 This repo consists of the following folders:
 
+- 01_Obsidian: Our knowledge base and Wiki
+- 02_Mechanik: Everything thats structurally important
+- 03_Software: Behind the scenes
+- 04_Elektronik: ECAD Data
+- 05_Archiv: Documents that need to be here
+
 # Important informations
 
 - There is a possibility that we use this repo for CAD Data => Use GIT LFS !!!
