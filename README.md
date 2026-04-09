@@ -36,6 +36,6 @@ This repo consists of the following folders:
 
 # History 
 
-16/10/2025: Construction start for the pib 3D printable Robot as a starting point for the team.
-24/03/2026: Official kick-off meeting for the newly formed @home team with 30 participants.
+16/10/2025: Construction start for the pib 3D printable Robot as a starting point for the team.\
+24/03/2026: Official kick-off meeting for the newly formed @home team with 30 participants.\  
 
