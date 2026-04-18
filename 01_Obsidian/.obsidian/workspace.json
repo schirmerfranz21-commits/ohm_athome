@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Mechanik/Fahrgestell/! Fahrgestell META.md",
+                "file": "02_Mechanik/Fahrgestell/statische Worst-Case-Schwerpunktanalyse.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "! Fahrgestell META"
+              "title": "statische Worst-Case-Schwerpunktanalyse"
             }
           }
         ]
@@ -185,18 +185,20 @@
   },
   "active": "a548c8a48c25fb5f",
   "lastOpenFiles": [
-    "Projektarbeit_Aufbau_optimierte_Roboterplattform_RoboCup_at_Work.pdf",
+    "Pasted image 20260418201451.png",
+    "02_Mechanik/! Mechanik META.md",
+    "02_Mechanik/Fahrgestell/statische Worst-Case-Schwerpunktanalyse.md",
+    "02_Mechanik/Fahrgestell/Schaltpläne.md",
+    "02_Mechanik/Fahrgestell/Kompontenten vom Steuercomputer des OhmniBot.md",
     "02_Mechanik/Fahrgestell/! Fahrgestell META.md",
+    "Projektarbeit_Aufbau_optimierte_Roboterplattform_RoboCup_at_Work.pdf",
     "Oberbau Schaltplan.pdf",
     "Fahrgestell Schaltplan.pdf",
     "04_Elektronik/! Elektronik META.md",
     "05_Archiv/Tabelle der Motorpositionen und IDs.md",
     "05_Archiv/! Archiv META.md",
-    "02_Mechanik/Fahrgestell/Kompontenten vom Steuercomputer des OhmniBot.md",
-    "02_Mechanik/Fahrgestell/Schaltpläne.md",
     "01_Obsidian/! Obsidian META.md",
     "02_Mechanik/Fahrgestell",
-    "02_Mechanik/! Mechanik META.md",
     "02_Mechanik/PETG Schweißen.md",
     "03_Software/Servo Bricklets initialisieren.md",
     "03_Software/Motoren kalibrieren und zuweisen.md",
@@ -219,7 +221,6 @@
     "01_Obsidian/Team Steckbriefe",
     "06_Protokolle",
     "05_Archiv",
-    "04_Elektronik",
-    "03_Software"
+    "04_Elektronik"
   ]
 }
